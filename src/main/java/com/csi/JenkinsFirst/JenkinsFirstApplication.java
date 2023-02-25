@@ -20,8 +20,12 @@ public class JenkinsFirstApplication {
 	public static void main(String[] args) {
 
 		log.info("Application Executed");
+
 		SpringApplication.run(JenkinsFirstApplication.class, args);
+
 	}
+
+
 	
 	
 

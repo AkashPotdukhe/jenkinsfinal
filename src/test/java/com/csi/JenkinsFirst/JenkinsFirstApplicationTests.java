@@ -20,6 +20,8 @@ class JenkinsFirstApplicationTests {
 
 		log.info("Test Case Executing");
 		log.info("Check");
+		log.info("Jenkins 2");
+		log.info("Failed");
 
 		assertEquals(true,true);
 
