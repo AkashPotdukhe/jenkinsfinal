@@ -16,7 +16,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 class JenkinsFirstApplicationTests {
 
 	@Test
-	void contextLoads() {
+	 contextLoads() {
 
 		log.info("Test Case Executing");
 		log.info("Check");
